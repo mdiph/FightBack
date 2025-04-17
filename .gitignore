@@ -1,0 +1,25 @@
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+*.idea/
+
+# Environment variables and secrets
+.env
+config.json
+
+# Logs and database files
+*.log
+*.sqlite3
+db/database.db
+
+# Virtual environment and dependency files
+venv/
+node_modules/
+requirements.txt
+
+# Discord-specific cache files
+discord.log
